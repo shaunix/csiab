@@ -4,12 +4,12 @@
 > documentation content strategy for your open source project.
 > It does not try to address every need or solve every problem,
 > but it does serve as a good starting point.
-
+>
 > Throughout this template, content in block quotes like this
 > provides instructions to you. Once you understand what to do
 > you can remove them. Content outside of block quotes serves
 > as templates that you should fill out.
-
+>
 > Start by writing a quick synopsis of wht the project is,
 > what components it contains, and what it helps people to
 > do. This will help you identify objectives and goals.
