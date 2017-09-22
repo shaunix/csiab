@@ -26,11 +26,23 @@ h3 {
 }
 blockquote {
   margin: 1em 0 0 0;
-  border-left: solid 4px #ce5c00;
-  background: #fcaf3e;
+  border-left: solid 4px #d3d7cf;
+  color: #888a85;
   padding: 4px 8px;
 }
 p {
   margin: 1em 0 0 0;
 }
 p:first-child { margin: 0; }
+ul {
+  margin: 1em 0 0 0;
+  padding: 0 0 0 2em;
+}
+ul:first-child { margin: 0; }
+li {
+  margin: 0; padding: 0;
+}
+li + li { margin-top: 0.2em; }
+a {
+  color: #204a87;
+}
