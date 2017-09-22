@@ -1,0 +1,32 @@
+html {
+  font-family: sans-serif;
+  margin: 0; padding: 0;
+}
+body {
+  margin: 0; padding: 0;
+}
+main {
+  display: block;
+  max-width: 940px;
+  padding: 10px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 3em;
+  font-weight: normal;
+  margin: 0;
+}
+h2 {
+  font-size: 2em;
+  font-weight: normal;
+}
+blockquote {
+  margin: 1em 0 0 0;
+  border-left: solid 4px #ce5c00;
+  background: #fcaf3e;
+  padding: 4px 8px;
+}
+p {
+  margin: 1em 0 0 0;
+}
+p:first-child { margin: 0; }
