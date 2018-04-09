@@ -10,7 +10,7 @@
 > you can remove them. Content outside of block quotes serves
 > as templates that you should fill out.
 >
-> Start by writing a quick synopsis of wht the project is,
+> Start by writing a quick synopsis of what the project is,
 > what components it contains, and what it helps people to
 > do. This will help you identify objectives and goals.
 
