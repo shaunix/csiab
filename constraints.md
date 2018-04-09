@@ -22,6 +22,6 @@
 * Contributors will come from *COMPANIES* *and volunteers?*
 
 * *PROJECT* is released every N months.
+  - Is it important to publish old versions of documentation?
 
 * The release cycle provides N weeks for documentation work.
-
