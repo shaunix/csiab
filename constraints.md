@@ -11,7 +11,7 @@
 * The content needs to be translated into N languages.
   - Are any of those languages RTL?
 
-* We expect to have roughtly N regular contributors.
+* We expect to have roughly N regular contributors.
 
 * Difficulty of becoming a contributor
   - Difficulty due to process overhead
