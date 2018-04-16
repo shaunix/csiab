@@ -9,7 +9,7 @@
 * We expect to have roughtly N topics of content.
 
 * The content needs to be translated into N languages.
-  - Are any of those languages RTL?
+  - Are any of those languages RTL (right-to-left)?
 
 * We expect to have roughly N regular contributors.
 
