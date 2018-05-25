@@ -24,7 +24,8 @@ libraries in Python, Ruby, and Ada that implement the API.
 * [Users and Personas](personas.html)
 * [User Objectives](objectives.html)
 * [User Stories](stories.html)
-* [Topics and Deliverables](topics.html)
+* [Topics](topics.html)
+* [Deliverables](deliverables.html)
 
 
 
